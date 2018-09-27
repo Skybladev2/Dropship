@@ -1,0 +1,7 @@
+.vs
+Temp
+obj
+*.*proj
+Library/
+/Logs/*.log
+/*.sln
