@@ -370,9 +370,10 @@ MonoBehaviour:
   Thrusters:
   - {fileID: 2016873518}
   - {fileID: 1069068686}
-  R3HorizontalFactor: 4
+  R3HorizontalFactor: 10
   L3HorizontalFactor: 6
   L3VerticalFactor: 0.5
+  ThrustFactor: 2
 --- !u!4 &1038530144 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 4657497382128574, guid: cdbec52167efb6a48b63cebb3284c246, type: 3}
